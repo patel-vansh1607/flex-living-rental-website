@@ -32,7 +32,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Flex Living] <a name="about-project"></a>
+# 🏠 Flex Living - House Renting <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
