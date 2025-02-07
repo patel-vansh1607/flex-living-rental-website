@@ -74,11 +74,44 @@ This project is developed by the Dev Student team of Rift Koders, who are curren
 - LinkedIn: [@vansh-patel](https://www.linkedin.com/in/vansh-patel-72650b26a/)
 
 <hr>
-<img src="./Images/vansh.png" alt="Vansh Patel" width="100" >
-👤 **Esha Patel**
+<img src="./Images/" alt="Esha Patel" width="100" >
 
-- GitHub: [@Eshhaa11](https://github.com/Eshhaa11)
+**Esha Patel**
+
+- GitHub: [@eshhaa11](https://github.com/Eshhaa11)
 - LinkedIn: [@esha-patel](https://www.linkedin.com/in/esha-patel-9463ab317)
+
+<hr>
+<img src="./Images/" alt="Ansh Patel" width="100" >
+
+ **Ansh Patel**
+
+- GitHub: [@patel-anshj1022](https://github.com/Patel-anshj1022)
+- LinkedIn: [@ansh-patel](https://www.linkedin.com/in/ansh-patel-245513337/)
+
+<hr>
+<img src="./Images/" alt="Tilak Patel" width="100" >
+
+ **Tilak Patel**
+
+- GitHub: [@tilzz25](https://github.com/tilzz25)
+- LinkedIn: [@tilak-patel](https://www.linkedin.com/in/tilak-patel-a226a5337/)
+
+<hr>
+<img src="./Images/" alt="Saleh Nassor" width="100" >
+
+ **Saleh Nassor**
+
+- GitHub: [@m-Saleh-n](https://github.com/M-Saleh-N)
+- LinkedIn: [@saleh-nassor](https://www.linkedin.com/in/saleh-nasser-429513337)
+
+<hr>
+<img src="./Images/" alt="Saleh Nassor" width="100" >
+
+ **Natasha Karanja**
+
+- GitHub: [@natasha-nj-k](https://github.com/Natasha-nj-k)
+- LinkedIn: [@natasha-karanja](https://www.linkedin.com/in/natasha-karanja-44117a336/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
