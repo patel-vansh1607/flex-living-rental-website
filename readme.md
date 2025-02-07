@@ -36,6 +36,8 @@
 
 > Flex Living – House Rental Website is a modern and user-friendly platform designed for seamless house rentals.It offers an intuitive interface for users to browse, search, and book rental properties with ease. The website features responsive design, interactive property listings, and dynamic filtering options, ensuring a smooth experience for both renters and property owners.
 
+This project is developed by the Dev Student team of Rift Koders, who are currently studying Full Stack Engineering.
+
 
 ## 🛠 Built With <a name="built-with"></a>
 -HTML.
