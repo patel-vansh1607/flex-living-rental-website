@@ -40,16 +40,16 @@ This project is developed by the Dev Student team of Rift Koders, who are curren
 
 
 ## 🛠 Built With <a name="built-with"></a>
--HTML.
--CSS.
--JS.
+-HTML.<br>
+-CSS.<br>
+-JS.<br>
 -React.
 
 
 ### Tech Stack <a name="tech-stack"></a>
 
--FrontEnd.
--BackEnd.
+-FrontEnd. <br>
+-BackEnd.<br>
 -DevOps & Hosting.
 
 <details>
