@@ -1,10 +1,10 @@
-
+  <div align="center">
   <img src="./Images/main-logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Flex Living Rental Wesbite</b></h3>
 
-</div>
+  </div>
 
 <!-- TABLE OF CONTENTS -->
 
