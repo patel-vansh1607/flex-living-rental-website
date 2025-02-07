@@ -66,7 +66,7 @@ This project is developed by the Dev Student team of Rift Koders, who are curren
 
 > Meet the amazing team behind this project
 <hr>
-<img src="./Images/vansh.png" alt="Vansh Patel" width="200" >
+<img src="./Images/vansh.png" alt="Vansh Patel" width="100" >
 
 **Vansh Patel**
 
