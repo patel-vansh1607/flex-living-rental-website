@@ -93,7 +93,7 @@ This project is developed by the Dev Student team of Rift Koders, who are curren
 - LinkedIn: [@saleh-nassor](https://www.linkedin.com/in/saleh-nasser-429513337)
 
 <hr>
-<img src="./Images/" alt="Saleh Nassor" width="100" >
+<img src="./Images/" alt="Natasha Karanja" width="100" >
 
  **Natasha Karanja**
 
