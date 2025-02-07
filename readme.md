@@ -64,8 +64,8 @@ This project is developed by the Dev Student team of Rift Koders, who are curren
 
 ## 👥 Authors <a name="authors"></a>
 
-> Meet the amazing team behind this projecy
-
+> Meet the amazing team behind this project
+<hr>
 <img src="./Images/vansh.png" alt="Vansh Patel" width="200" >**Vansh Patel**
 
 - GitHub: [@patel-vansh1607](https://github.com/patel-vansh1607)
