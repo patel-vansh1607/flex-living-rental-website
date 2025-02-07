@@ -71,11 +71,10 @@ This project is developed by the Dev Student team of Rift Koders, who are curren
 - GitHub: [@patel-vansh1607](https://github.com/patel-vansh1607)
 - LinkedIn: [@vansh-patel](https://www.linkedin.com/in/vansh-patel-72650b26a/)
 
-👤 **Author2**
+👤 **Esha Patel**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Eshhaa11](https://github.com/Eshhaa11)
+- LinkedIn: [@esha-patel](https://www.linkedin.com/in/esha-patel-9463ab317)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
